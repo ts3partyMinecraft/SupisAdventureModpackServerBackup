@@ -1023,3 +1023,40 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [21:52:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Red Heart Canister]
 [21:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Orange Heart Canister]
 [21:55:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity aoa3:heart_stone that already exists with UUID 42544110-2510-4f2f-81c0-0bc2e217823d
+[22:25:11] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy_newel_tall.objson in 1963581 nanos.
+[22:31:30] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Unstable to Its Core]
+[22:31:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5381ms behind, skipping 107 tick(s)
+[22:31:54] [Server thread/INFO] [FML]: Unloading dimension 805
+[22:31:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4147ms behind, skipping 82 tick(s)
+[22:32:21] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:32:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 0.7161870248819469,-6.5,7.986720223862903
+[22:34:10] [Server thread/INFO] [FML]: Unloading dimension 805
+[22:34:34] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:42:18] [Server thread/INFO] [FML]: Unloading dimension 805
+[22:43:47] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:43:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 0.6982807198346563,-6.5,8.108456773800754
+[22:43:56] [Server thread/INFO] [FML]: Unloading dimension 805
+[22:45:15] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:45:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 0.7016543361369258,-6.5,7.872188667677619
+[22:47:22] [Server thread/INFO] [FML]: Unloading dimension 805
+[22:47:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 0.7295858730212785,7.250812921255317,-7.200204940295407
+[22:48:14] [Server thread/INFO] [FML]: Loading dimension 817 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Fungal Skyscrapers]
+[22:48:15] [Server thread/WARN] [FML]: Advent Of Ascension loaded a new chunk [503, 371] in dimension 817 (mysterium) while populating chunk [504, 372], causing cascading worldgen lag.
+[22:48:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:48:17] [Server thread/WARN] [FML]: Advent Of Ascension loaded a new chunk [514, 358] in dimension 817 (mysterium) while populating chunk [515, 359], causing cascading worldgen lag.
+[22:48:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:48:17] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [518, 362] in dimension 817 (mysterium) while populating chunk [517, 361], causing cascading worldgen lag.
+[22:48:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:48:17] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [518, 361] in dimension 817 (mysterium) while populating chunk [517, 361], causing cascading worldgen lag.
+[22:48:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:48:24] [Server thread/WARN] [FML]: Advent Of Ascension loaded a new chunk [504, 357] in dimension 817 (mysterium) while populating chunk [505, 357], causing cascading worldgen lag.
+[22:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:48:34] [Server thread/INFO] [FML]: Unloading dimension 817
+[22:50:28] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang_inner_corner.objson in 1557171 nanos.
+[22:52:43] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[22:52:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 4.297170135331726,-7.5,-7.159448394280844
+[22:52:54] [Server thread/INFO] [FML]: Unloading dimension 800
+[22:53:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray lost connection: Disconnected
+[22:53:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray left the game

@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "aoa3:overworld/the_explosive_key": {
+    "criteria": {
+      "inv_changed-aoa3:creeponia_realmstone": "2020-04-10 22:24:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2020-04-10 20:20:27 +0000"
@@ -722,6 +728,12 @@
   "biomesoplenty:recipes/buildingblocks/sapphire_block": {
     "criteria": {
       "has_at_least_9_gems": "2020-04-08 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "aoa3:overworld/key_to_the_underground": {
+    "criteria": {
+      "inv_changed-aoa3:deeplands_realmstone": "2020-04-10 22:39:16 +0000"
     },
     "done": true
   },
@@ -1279,6 +1291,12 @@
   "bhc:main/orange_heart_canister": {
     "criteria": {
       "orange_heart_canister_in_inventory": "2020-04-10 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "aoa3:overworld/the_shroomic_key": {
+    "criteria": {
+      "inv_changed-aoa3:mysterium_realmstone": "2020-04-10 22:47:06 +0000"
     },
     "done": true
   },
@@ -2284,6 +2302,12 @@
     },
     "done": true
   },
+  "aoa3:mysterium/root": {
+    "criteria": {
+      "access_mysterium": "2020-04-10 22:48:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2020-04-07 18:22:09 +0000"
@@ -2305,6 +2329,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-04-07 21:12:00 +0000"
+    },
+    "done": true
+  },
+  "aoa3:creeponia/root": {
+    "criteria": {
+      "access_creeponia": "2020-04-10 22:31:31 +0000"
     },
     "done": true
   },
