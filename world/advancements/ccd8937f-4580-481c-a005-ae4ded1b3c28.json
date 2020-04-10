@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-04-10 15:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 19:19:33 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-04-08 05:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-10 15:25:02 +0000"
     },
     "done": true
   },
@@ -1055,6 +1067,7 @@
       "zombie_villager": "2020-04-09 11:22:27 +0000",
       "magma_cube": "2020-04-08 15:21:29 +0000",
       "polar_bear": "2020-04-09 11:21:37 +0000",
+      "slime": "2020-04-10 15:19:30 +0000",
       "skeleton": "2020-04-07 18:47:14 +0000",
       "blaze": "2020-04-08 15:07:43 +0000",
       "silverfish": "2020-04-07 20:10:30 +0000",
@@ -1477,7 +1490,8 @@
     "criteria": {
       "peridot": "2020-04-08 18:48:20 +0000",
       "topaz": "2020-04-09 20:04:30 +0000",
-      "emerald": "2020-04-08 12:30:24 +0000"
+      "emerald": "2020-04-08 12:30:24 +0000",
+      "tanzanite": "2020-04-10 15:11:52 +0000"
     },
     "done": false
   },
@@ -1661,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-10 15:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-04-07 19:34:15 +0000"
@@ -1749,6 +1769,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-04-07 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-04-10 15:19:39 +0000"
     },
     "done": true
   },
@@ -1857,6 +1883,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-04-08 05:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-10 15:19:35 +0000"
     },
     "done": true
   },
@@ -2332,6 +2364,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 20:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-04-10 15:19:39 +0000"
     },
     "done": true
   }

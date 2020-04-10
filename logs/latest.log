@@ -940,3 +940,28 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [14:53:19] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Zinnogre
 [14:53:19] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Zinnogre
 [14:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has made the advancement [Getting an Upgrade]
+[15:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has reached the goal [My First Level]
+[15:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has made the advancement [Acquire Hardware]
+[15:08:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has made the advancement [Isn't It Iron Pick]
+[15:15:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has made the advancement [The Journey Begins]
+[15:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre was slain by Zombie
+[15:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre was slain by Zombie
+[15:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre got revenge on Zombie
+[15:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has made the advancement [Cover Me With Diamonds]
+[15:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre was slain by Zombie
+[15:43:16] [Server thread/INFO] [morpheus]: supi129 is now sleeping. 1/2 (50%)
+[15:43:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved wrongly!
+[15:51:12] [Server thread/INFO] [FML]: Loading dimension 802 (world) (net.minecraft.server.dedicated.DedicatedServer@3825b140)
+[15:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has made the advancement [Barren Ground]
+[15:51:20] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
+[15:51:20] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (0 tiles)
+[15:51:20] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
+[15:51:32] [Server thread/INFO] [antiqueatlas]: Created new marker #1"Portal"@(8134, 5852)
+[15:51:32] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[15:51:52] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[15:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre has made the advancement [Take Aim]
+[15:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre was slain by Hive King
+[15:59:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has completed the challenge [Hive-Monarch Down]
+[15:59:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has made the advancement [Orange Heart]
+[15:59:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zinnogre lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[15:59:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zinnogre left the game
