@@ -1,0 +1,9 @@
+[00:00:02] [Server thread/INFO] [morpheus]: SryForBeingGray has left their bed. 0/3 (0%)
+[00:09:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2563ms behind, skipping 51 tick(s)
+[00:10:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2911ms behind, skipping 58 tick(s)
+[00:21:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray lost connection: Disconnected
+[00:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray left the game
+[00:22:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Petsche lost connection: Disconnected
+[00:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Petsche left the game
+[00:28:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EvilAntiSmiley lost connection: Disconnected
+[00:28:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EvilAntiSmiley left the game
