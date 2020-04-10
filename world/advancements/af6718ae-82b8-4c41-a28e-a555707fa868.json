@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2020-04-10 21:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2020-04-09 06:32:37 +0000"
@@ -535,6 +541,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2020-04-08 13:21:36 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2020-04-10 21:20:51 +0000"
     },
     "done": true
   },
@@ -692,6 +704,12 @@
   "aoa3:barathos/hive_minded": {
     "criteria": {
       "hive_chunk_obtain": "2020-04-09 13:41:14 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/orange_heart": {
+    "criteria": {
+      "orange_heart_in_inventory": "2020-04-10 21:45:31 +0000"
     },
     "done": true
   },
@@ -1255,6 +1273,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2020-04-07 21:43:13 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/orange_heart_canister": {
+    "criteria": {
+      "orange_heart_canister_in_inventory": "2020-04-10 21:53:13 +0000"
     },
     "done": true
   },
@@ -2581,6 +2605,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-08 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/relic_apple": {
+    "criteria": {
+      "relic_apple_eaten": "2020-04-10 21:49:53 +0000"
     },
     "done": true
   },

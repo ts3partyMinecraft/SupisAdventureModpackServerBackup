@@ -39,8 +39,8 @@
 1009 126 412 1016 135 419 Outcrop.tml
 1011 126 562 1021 131 572 RuinedSmallFountainDiagonal.tml
 1016 127 327 1018 131 330 SkeletonHeadStatue.tml
-1088 126 795 1093 132 800 CaveSpiderBurrow.tml
 1088 11 515 1100 20 525 StoneHouseMruined.tml
+1088 126 795 1093 132 800 CaveSpiderBurrow.tml
 1107 126 609 1114 129 614 Melonfield.tml
 1125 126 702 1132 130 709 TinyFarmField.tml
 1128 128 531 1132 130 535 EmeraldOreOutcrop.tml
@@ -49,8 +49,8 @@
 1197 126 332 1212 134 347 Mausoleum.tml
 1221 128 526 1234 160 539 OreSpire.tml
 1251 126 242 1254 132 246 StonePillar.tml
-1253 126 913 1256 132 917 StonePillar.tml
 1253 124 718 1286 146 750 CastleModified.tml
+1253 126 913 1256 132 917 StonePillar.tml
 1269 126 422 1274 132 427 CaveSpiderBurrow.tml
 1272 126 640 1276 132 643 StonePillar.tml
 1326 128 883 1330 130 887 EmeraldOreOutcrop.tml

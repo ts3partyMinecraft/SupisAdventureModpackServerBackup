@@ -1007,3 +1007,19 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [20:38:54] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/stairs.objson in 1527097 nanos.
 [20:39:22] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/cylinder_r6h16.objson in 2083174 nanos.
 [20:39:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity aoa3:heart_stone that already exists with UUID 42544110-2510-4f2f-81c0-0bc2e217823d
+[21:08:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 3855.2347808239647,-28.5,-2832.199999988079
+[21:10:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 2828.7804732850273,0.5,-10395.745358577797
+[21:29:37] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:29:37] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[21:37:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:41:08] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy_corner.objson in 12862819 nanos.
+[21:43:07] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_plain_bottom.objson in 1921914 nanos.
+[21:43:07] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_fancy_top.objson in 16637553 nanos.
+[21:44:42] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:44:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@14579aa)
+[21:45:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Orange Heart]
+[21:46:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Relic Apples Please!]
+[21:52:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Red Heart Canister]
+[21:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [Orange Heart Canister]
+[21:55:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity aoa3:heart_stone that already exists with UUID 42544110-2510-4f2f-81c0-0bc2e217823d
