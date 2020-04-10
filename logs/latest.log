@@ -888,3 +888,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [12:48:52] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain.objson in 3728926 nanos.
 [12:49:50] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_plain.objson in 1277492 nanos.
 [12:50:27] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_inner_corner.objson in 1702088 nanos.
+[13:05:21] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_fancy.objson in 10126815 nanos.
+[13:06:38] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_fancy_bottom.objson in 9796117 nanos.
+[13:07:51] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_fancy_top.objson in 8571940 nanos.
+[13:44:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[13:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
