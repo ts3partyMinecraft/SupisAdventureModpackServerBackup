@@ -1,5 +1,0 @@
-#Thu Apr 09 18:33:39 GMT 2020
-Petsche=10
-EvilAntiSmiley=9
-supi129=12
-SryForBeingGray=5

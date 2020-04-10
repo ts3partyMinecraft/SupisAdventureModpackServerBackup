@@ -1,2 +1,0 @@
-    cd /opt/mcserver/server
-    java         -XX:+UseG1GC         -XX:+UseFastAccessorMethods         -XX:+OptimizeStringConcat         -XX:+AggressiveOpts         -XX:+UseStringDeduplication         -XX:StringTableSize=1000003         -XX:MetaspaceSize=512m         -XX:MaxMetaspaceSize=4096m         -XX:MaxGCPauseMillis=50         -Xms13312M         -Xmx15360M         -XX:hashCode=5         -Dfile.encoding=UTF-8         -jar run.jar         --log-strip-color         --noconsole         nogui         --bonuschest
