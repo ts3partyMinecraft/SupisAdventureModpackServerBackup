@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "name": "uncommon_treasure",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_nugget",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "aoa3:limonite_ingot",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "aoa3:runium_chunk",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}
