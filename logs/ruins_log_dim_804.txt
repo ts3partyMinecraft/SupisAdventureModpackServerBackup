@@ -1,16 +1,3 @@
-Did not find any Building data for ./config/ruins_config/mutated_redwood_taiga_hills, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/marsh, creating empty folder for it: failed
-Did not find any Building data for ./config/ruins_config/meadow, creating empty folder for it: failed
-Did not find any Building data for ./config/ruins_config/birch_forest_hills, creating empty folder for it: failed
-Did not find any Building data for ./config/ruins_config/mutated_desert, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/mysterium, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/flower_island, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/mesa, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/mystic_grove, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/lunalus, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/ice_flats, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/grove, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/steppe, creating empty folder for it: success
 
 Loading options from: /opt/mcserver/server/world/AoA_Celeve
 tries_per_chunk_normal = 6
