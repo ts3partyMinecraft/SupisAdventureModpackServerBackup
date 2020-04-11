@@ -639,6 +639,7 @@
       "wither_skeleton": "2020-04-08 15:18:55 +0000",
       "zombie_villager": "2020-04-08 17:12:38 +0000",
       "magma_cube": "2020-04-08 15:19:15 +0000",
+      "polar_bear": "2020-04-11 15:01:17 +0000",
       "skeleton": "2020-04-07 18:26:30 +0000",
       "husk": "2020-04-09 13:14:26 +0000",
       "blaze": "2020-04-08 15:13:13 +0000",
@@ -652,6 +653,12 @@
       "enderman": "2020-04-08 21:35:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-11 15:36:21 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -1148,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-11 15:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2020-04-07 20:45:06 +0000"
@@ -1435,6 +1448,12 @@
   "biomesoplenty:recipes/misc/red_dye_from_rafflesia": {
     "criteria": {
       "has_flower": "2020-04-09 06:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-11 15:36:21 +0000"
     },
     "done": true
   },
@@ -2014,10 +2033,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-04-11 15:36:32 +0000"
+    },
+    "done": true
+  },
   "aoa3:overworld/charger_safari": {
     "criteria": {
       "kill_king_charger": "2020-04-10 19:23:55 +0000",
       "kill_sea_charger": "2020-04-09 12:10:41 +0000",
+      "kill_snow_charger": "2020-04-11 15:01:10 +0000",
       "kill_charger": "2020-04-07 20:52:09 +0000",
       "kill_swamp_charger": "2020-04-09 06:39:56 +0000",
       "kill_void_charger": "2020-04-08 11:15:50 +0000",
@@ -2046,6 +2072,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-04-08 13:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-04-11 15:36:32 +0000"
     },
     "done": true
   },

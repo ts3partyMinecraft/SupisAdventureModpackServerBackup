@@ -1251,3 +1251,14 @@ Caused by: java.lang.IllegalArgumentException: Cannot get property PropertyDirec
 [14:32:41] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
 [14:43:52] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/arch_d1.objson in 4028525 nanos.
 [14:54:02] [Server thread/INFO] [FML]: Unloading dimension 820
+[15:01:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[15:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
+[15:03:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 4422.500799887233,52.5,-2593.199999988079
+[15:43:53] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang_inner_corner.objson in 1924753 nanos.
+[15:58:30] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[15:59:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 4220.673929674604,34.5,-3057.800000011921
+[16:12:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2049ms behind, skipping 40 tick(s)
+[16:12:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2641ms behind, skipping 52 tick(s)
+[16:12:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2974ms behind, skipping 59 tick(s)
+[16:15:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 4215.526038604505,46.5,-2737.800642564722
+[16:27:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 3830.2580302150163,-25.5,-2742.567200808873
