@@ -1019,3 +1019,103 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [09:57:17] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [09:59:21] [Server thread/INFO] [antiqueatlas]: Created new marker #8"Hive Nest"@(6786, 6104)
 [09:59:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[10:01:37] [Server thread/INFO] [antiqueatlas]: Created new marker #9"Keine Ahnung von einen Turm"@(6324, 6008)
+[10:01:47] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[10:05:28] [Server thread/INFO] [antiqueatlas]: Created new marker #10"Baroness Boss Spawner"@(6320, 6000)
+[10:05:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[10:06:27] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [371, 388] in dimension 802 (barathos) while populating chunk [371, 387], causing cascading worldgen lag.
+[10:06:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:06:27] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [372, 387] in dimension 802 (barathos) while populating chunk [371, 387], causing cascading worldgen lag.
+[10:06:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:07:09] [Server thread/INFO] [antiqueatlas]: Created new marker #11"Baroness Spawner"@(5948, 6202)
+[10:07:47] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[10:15:37] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [272, 434] in dimension 802 (barathos) while populating chunk [272, 433], causing cascading worldgen lag.
+[10:15:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:17:03] [Server thread/INFO] [antiqueatlas]: Created new marker #12"Baroness"@(4406, 6994)
+[10:17:32] [Server thread/INFO] [antiqueatlas]: Created new marker #13"Hive Nest"@(4348, 7028)
+[10:17:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[10:18:10] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [261, 443] in dimension 802 (barathos) while populating chunk [261, 442], causing cascading worldgen lag.
+[10:18:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:19:01] [Server thread/WARN] [net.minecraft.network.NetworkSystem]: Failed to handle packet for /10.0.0.3:54393
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:459) ~[oq.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_73660_a(NetHandlerPlayServer.java:173) ~[pa.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209) ~[NetworkDispatcher$1.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285) ~[gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+Caused by: java.lang.IllegalArgumentException: Cannot get property PropertyDirection{name=facing, clazz=class net.minecraft.util.EnumFacing, values=[north, south, west, east]} as it does not exist in BlockStateContainer{block=minecraft:air, properties=[]}
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177229_b(BlockStateContainer.java:201) ~[awu$a.class:?]
+	at net.blay09.mods.waystones.block.BlockWaystone.activateWaystone(BlockWaystone.java:252) ~[BlockWaystone.class:?]
+	at net.blay09.mods.waystones.item.ItemBoundScroll.func_77654_b(ItemBoundScroll.java:124) ~[ItemBoundScroll.class:?]
+	at net.minecraft.item.ItemStack.func_77950_b(ItemStack.java:222) ~[aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_71036_o(EntityLivingBase.java:2789) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71036_o(EntityPlayerMP.java:1125) ~[oq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184608_ct(EntityLivingBase.java:2688) ~[vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2097) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:234) ~[aed.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:382) ~[oq.class:?]
+	... 9 more
+[10:19:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Internal server error
+[10:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
+[10:19:02] [Server thread/INFO] [FML]: Unloading dimension 802
+[10:19:12] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player supi129 is ccd8937f-4580-481c-a005-ae4ded1b3c28
+[10:19:12] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[10:19:12] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 90 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[10:19:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:19:15] [Server thread/INFO] [FML]: Loading dimension 802 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[10:19:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: supi129[/10.0.0.3:54766] logged in with entity id 119422 at (4314.7355824856895, 70.0625, 6840.1728274815105)
+[10:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 joined the game
+[10:19:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['supi129'/119422, l='world', x=4314.74, y=70.06, z=6840.17] connected. Sending ping
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player supi129
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player supi129
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (65 tiles)
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (48 tiles)
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
+[10:19:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[10:19:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[10:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
+[10:19:33] [Server thread/INFO] [FML]: Unloading dimension 802
+[10:29:35] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[10:29:35] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[10:29:35] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 91 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[10:29:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:29:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SryForBeingGray[/10.0.0.3:62040] logged in with entity id 119605 at (8145.896144190552, 91.0, 5874.505302192664)
+[10:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray joined the game
+[10:29:41] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SryForBeingGray'/119605, l='world', x=8145.90, y=91.00, z=5874.51] connected. Sending ping
+[10:29:41] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player SryForBeingGray
+[10:29:41] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player SryForBeingGray
+[10:36:51] [Server thread/INFO] [FML]: Loading dimension 817 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[10:36:51] [Server thread/INFO] [FML]: Unloading dimension 817
+[10:39:31] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player supi129 is ccd8937f-4580-481c-a005-ae4ded1b3c28
+[10:39:31] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[10:39:31] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 90 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[10:39:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:39:34] [Server thread/INFO] [FML]: Loading dimension 802 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[10:39:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: supi129[/10.0.0.3:54792] logged in with entity id 125390 at (4316.240732350295, 70.0625, 6843.699999988079)
+[10:39:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 joined the game
+[10:39:35] [Server thread/INFO] [Waila]: Player EntityPlayerMP['supi129'/125390, l='world', x=4316.24, y=70.06, z=6843.70] connected. Sending ping
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player supi129
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player supi129
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (65 tiles)
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (48 tiles)
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
+[10:39:35] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[10:40:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! -7.78651722257473,-19.5,8.81558742973084
+[10:40:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SryForBeingGray> 4317
+[10:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <supi129> 4317 70 6836
+[10:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [The Dark Gem]
+[10:52:26] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [446, 431] in dimension 802 (barathos) while populating chunk [446, 430], causing cascading worldgen lag.
+[10:52:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:52:26] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [447, 430] in dimension 802 (barathos) while populating chunk [446, 430], causing cascading worldgen lag.
+[10:52:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:58:35] [Server thread/INFO] [antiqueatlas]: Created new marker #14"Hive Boss"@(8064, 6124)
+[10:58:47] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
