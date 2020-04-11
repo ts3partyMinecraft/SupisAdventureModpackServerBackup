@@ -32,6 +32,7 @@
 6698 87 8877 6707 102 8886 MoaiHead.tml
 6716 47 8368 6727 71 8404 SunkenShip-v2.tml
 6732 48 8390 6743 72 8426 SunkenShip-v2.tml
+6740 43 7653 6751 67 7689 SunkenShip-v2.tml
 6756 42 7314 6767 58 7350 SunkenShip-v3.tml
 6768 45 7542 6776 62 7568 shipwreck.tml
 6778 44 8605 6786 61 8631 shipwreck.tml
@@ -51,6 +52,7 @@
 6950 62 7258 6955 65 7265 Melonfield.tml
 6958 90 9006 6963 93 9013 Melonfield.tml
 6999 44 8813 7010 68 8849 SunkenShip-v2.tml
+7000 50 7074 7026 67 7082 shipwreck.tml
 7007 66 7748 7014 75 7755 Outcrop.tml
 7017 44 8431 7028 68 8467 SunkenShip-v2.tml
 7018 45 5993 7044 62 6001 shipwreck.tml
@@ -66,11 +68,14 @@
 7099 43 5813 7135 59 5824 SunkenShip-v3.tml
 7102 65 7748 7105 69 7751 StoneGrill.tml
 7103 64 7365 7106 68 7367 SkeletonHeadStatue.tml
+7114 43 6875 7150 67 6886 SunkenShip-v2.tml
 7118 39 8231 7126 56 8257 shipwreck.tml
 7119 69 7137 7126 78 7144 Outcrop.tml
 7130 66 7209 7134 68 7213 EmeraldOreOutcrop.tml
+7135 44 6887 7146 60 6923 SunkenShip-v3.tml
 7135 68 9112 7139 70 9116 EmeraldOreOutcrop.tml
 7139 73 7537 7143 75 7541 EmeraldOreOutcrop.tml
+7156 62 6988 7159 66 6990 SkeletonHeadStatue.tml
 7160 89 8687 7172 98 8697 StoneHouseMruined.tml
 7164 66 8782 7168 68 8786 EmeraldOreOutcrop.tml
 7196 41 7862 7232 65 7873 SunkenShip-v2.tml
@@ -80,9 +85,11 @@
 7208 43 8143 7244 67 8154 SunkenShip-v2.tml
 7210 66 7302 7213 72 7306 StonePillar.tml
 7211 64 6008 7214 68 6011 StoneGrill.tml
+7216 66 6896 7227 87 6908 JungleTreePlatform_edit.tml
 7216 44 5529 7252 68 5540 SunkenShip-v2.tml
 7218 43 8955 7244 60 8963 shipwreck.tml
 7224 65 7204 7237 97 7217 OreSpire.tml
+7225 68 7057 7230 74 7062 CaveSpiderBurrow.tml
 7261 68 6236 7274 77 6249 VolcanicVent.tml
 7263 67 6352 7270 72 6357 ZombieHut.tml
 7264 67 6146 7267 71 6148 SkeletonHeadStatue.tml
@@ -91,6 +98,7 @@
 7281 45 6433 7317 61 6444 SunkenShip-v3.tml
 7288 63 8596 7318 100 8626 PirateShip.tml
 7291 64 7781 7294 70 7785 StonePillar.tml
+7304 43 7020 7330 60 7028 shipwreck.tml
 7311 41 8153 7322 57 8189 SunkenShip-v3.tml
 7312 43 8917 7323 67 8953 SunkenShip-v2.tml
 7316 43 7925 7324 60 7951 shipwreck.tml
@@ -438,6 +446,7 @@
 8577 62 8089 8587 67 8099 RuinedSmallFountainDiagonal.tml
 8579 62 5424 8586 71 5431 Outcrop.tml
 8587 66 11817 8594 69 11822 Melonfield.tml
+8593 71 7479 8606 80 7492 VolcanicVent.tml
 8595 71 6871 8605 76 6881 RuinedSmallFountainDiagonal.tml
 8600 61 12295 8607 70 12302 Outcrop.tml
 8603 67 7021 8616 76 7034 VolcanicVent.tml
@@ -460,8 +469,10 @@
 8671 71 5236 8681 76 5246 RuinedSmallFountainDiagonal.tml
 8671 110 7265 8678 119 7272 Outcrop.tml
 8673 66 6084 8683 71 6094 RuinedSmallFountainDiagonal.tml
+8674 192 7365 8679 198 7370 CaveSpiderBurrow.tml
 8686 94 5871 8691 97 5878 PumpkinField.tml
 8688 66 12021 8695 70 12028 TinyFarmField.tml
+8689 199 7450 8701 212 7466 Barn-intact.tml
 8695 65 5600 8702 69 5607 TinyFarmField.tml
 8699 67 5961 8706 72 5966 ZombieHut.tml
 8700 40 4606 8736 56 4617 SunkenShip-v3.tml
