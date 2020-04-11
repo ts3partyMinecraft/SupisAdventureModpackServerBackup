@@ -1,1 +1,85 @@
 [05:31:40] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[07:00:38] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player supi129 is ccd8937f-4580-481c-a005-ae4ded1b3c28
+[07:00:39] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[07:00:39] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 90 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[07:00:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:00:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: supi129[/10.0.0.3:53719] logged in with entity id 156718 at (8102.412074771952, 66.0, 5690.137499988079)
+[07:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 joined the game
+[07:00:46] [Server thread/INFO] [Waila]: Player EntityPlayerMP['supi129'/156718, l='world', x=8102.41, y=66.00, z=5690.14] connected. Sending ping
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player supi129
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player supi129
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (6 tiles)
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (8 tiles)
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
+[07:00:46] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[07:01:05] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain.objson in 1972097 nanos.
+[07:01:05] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_inner_corner.objson in 1164674 nanos.
+[07:01:10] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:02:45] [Server thread/INFO] [antiqueatlas]: Created new marker #4"Home"@(8112, 5682)
+[07:03:01] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/pillar_base.objson in 13749519 nanos.
+[07:03:25] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:11:09] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [560, 367] in dimension 0 (overworld) while populating chunk [561, 367], causing cascading worldgen lag.
+[07:11:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:11:09] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [559, 367] in dimension 0 (overworld) while populating chunk [561, 367], causing cascading worldgen lag.
+[07:11:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:25] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [583, 373] in dimension 0 (overworld) while populating chunk [583, 374], causing cascading worldgen lag.
+[07:17:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved wrongly!
+[07:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has made the advancement [Spooky Scary Skeleton]
+[07:22:49] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:31:02] [Server thread/INFO] [antiqueatlas]: Created new marker #5"Zinnoshole"@(8042, 5752)
+[07:31:10] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:38:11] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [453, 389] in dimension 0 (overworld) while populating chunk [454, 390], causing cascading worldgen lag.
+[07:38:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:40:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [461, 401] in dimension 0 (overworld) while populating chunk [462, 401], causing cascading worldgen lag.
+[07:40:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:40:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [465, 408] in dimension 0 (overworld) while populating chunk [466, 408], causing cascading worldgen lag.
+[07:40:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:44:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [468, 422] in dimension 0 (overworld) while populating chunk [469, 422], causing cascading worldgen lag.
+[07:44:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:44:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [470, 429] in dimension 0 (overworld) while populating chunk [471, 429], causing cascading worldgen lag.
+[07:44:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:46:40] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [466, 435] in dimension 0 (overworld) while populating chunk [467, 435], causing cascading worldgen lag.
+[07:46:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:47:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2427ms behind, skipping 48 tick(s)
+[07:47:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [464, 434] in dimension 0 (overworld) while populating chunk [465, 435], causing cascading worldgen lag.
+[07:47:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:50:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3437ms behind, skipping 68 tick(s)
+[07:51:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2872ms behind, skipping 57 tick(s)
+[07:53:04] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [492, 459] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:04] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [499, 464] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:05] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [499, 465] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:05] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [500, 465] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:05] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [499, 466] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:05] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [492, 460] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:05] [Server thread/WARN] [FML]: Wesley's RogueLike Dungeons loaded a new chunk [491, 460] in dimension 0 (overworld) while populating chunk [491, 459], causing cascading worldgen lag.
+[07:53:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2662ms behind, skipping 53 tick(s)
+[07:53:28] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [506, 451] in dimension 0 (overworld) while populating chunk [506, 452], causing cascading worldgen lag.
+[07:53:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:28] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [505, 451] in dimension 0 (overworld) while populating chunk [506, 452], causing cascading worldgen lag.
+[07:53:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved too quickly! 1.4458416442639646,1.0,9.873910332048581
+[07:53:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved too quickly! 8.613202774530691,0.001335979112141672,5.473835325601613
+[07:53:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [492, 475] in dimension 0 (overworld) while populating chunk [493, 476], causing cascading worldgen lag.
+[07:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [491, 475] in dimension 0 (overworld) while populating chunk [493, 476], causing cascading worldgen lag.
+[07:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [492, 476] in dimension 0 (overworld) while populating chunk [493, 476], causing cascading worldgen lag.
+[07:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [491, 476] in dimension 0 (overworld) while populating chunk [493, 476], causing cascading worldgen lag.
+[07:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:53:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved too quickly! 10.17351443973439,-0.5216761829341863,0.5275887054558552
+[07:54:44] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog]: A single server tick took 60.00 seconds (should be max 0.05)
+[07:54:44] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog]: Considering it to be crashed, server will forcibly shutdown.
+[07:54:48] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog]: This crash report has been saved to: /opt/mcserver/server/./crash-reports/crash-2020-04-11_07.54.48-server.txt
+[07:54:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:54:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
