@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "aoa3:abyss/root": {
+    "criteria": {
+      "access_abyss": "2020-04-11 13:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-04-08 06:19:21 +0000"
@@ -662,6 +668,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-04-08 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "aoa3:abyss/unwavering_eyes": {
+    "criteria": {
+      "kill_shadowlord": "2020-04-11 13:17:59 +0000"
     },
     "done": true
   },
@@ -1161,6 +1173,12 @@
     },
     "done": true
   },
+  "aoa3:lelyetia/root": {
+    "criteria": {
+      "access_lelyetia": "2020-04-11 13:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-04-07 10:47:43 +0000"
@@ -1326,6 +1344,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 20:18:48 +0000"
+    },
+    "done": true
+  },
+  "aoa3:abyss/the_staring_eye": {
+    "criteria": {
+      "staring_eye_obtain": "2020-04-11 13:07:08 +0000"
     },
     "done": true
   },

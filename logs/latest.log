@@ -1161,3 +1161,93 @@ Caused by: java.lang.IllegalArgumentException: Cannot get property PropertyDirec
 [12:46:23] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_fancy_top.objson in 7724782 nanos.
 [12:54:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 3861.800000011921,-26.5,-2860.0072419508215
 [12:57:17] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:06:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has made the advancement [The Abyss]
+[13:06:41] [Server thread/INFO] [antiqueatlas]: Created new marker #20"Portal"@(8158, 5870)
+[13:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has made the advancement [The Staring Eye]
+[13:07:16] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[13:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SryForBeingGray> [name:"illusion altar", x:8323, y:67, z:5824, dim:800]
+[13:08:15] [Server thread/INFO] [FML]: Unloading dimension 800
+[13:10:17] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:12:40] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/arch_d2.objson in 1987064 nanos.
+[13:14:10] [Server thread/INFO] [FML]: Loading dimension 815 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [The Inverted World]
+[13:14:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5793ms behind, skipping 115 tick(s)
+[13:15:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 48021ms behind, skipping 960 tick(s)
+[13:16:02] [Server thread/INFO] [FML]: Unloading dimension 815
+[13:16:22] [Server thread/INFO] [antiqueatlas]: Created new marker #21"Boss"@(8328, 5816)
+[13:16:53] [Server thread/INFO] [FML]: Loading dimension 810 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [The Haunted Lands]
+[13:16:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2337ms behind, skipping 46 tick(s)
+[13:17:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[13:17:19] [Server thread/INFO] [FML]: Unloading dimension 810
+[13:17:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has completed the challenge [Unwavering Eyes]
+[13:19:46] [Server thread/INFO] [FML]: Unloading dimension 800
+[13:20:59] [Server thread/INFO] [FML]: Loading dimension 815 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:20:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has made the advancement [The Inverted World]
+[13:21:28] [Server thread/INFO] [antiqueatlas]: Created new marker #22"Portal"@(8146, 5928)
+[13:21:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[13:22:41] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:22:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 4.275707297027111,-7.5,-6.06418833978114
+[13:22:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2993ms behind, skipping 59 tick(s)
+[13:23:15] [Server thread/INFO] [FML]: Unloading dimension 800
+[13:23:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! -5.273172370027169,8.5,6.528750147272149
+[13:23:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7383ms behind, skipping 147 tick(s)
+[13:23:32] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:23:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! 4.42468465629463,-7.5,-7.05333506513216
+[13:23:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5512ms behind, skipping 110 tick(s)
+[13:23:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2857ms behind, skipping 57 tick(s)
+[13:24:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2818ms behind, skipping 56 tick(s)
+[13:25:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2472ms behind, skipping 49 tick(s)
+[13:27:10] [Server thread/INFO] [FML]: Unloading dimension 815
+[13:31:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved too quickly! 7.21716887410912,0.0,7.05754985862859
+[13:33:23] [Server thread/INFO] [FML]: Unloading dimension 800
+[13:37:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: supi129 moved too quickly! -738.6163140882563,3.703264399331289,-130.0090990388635
+[13:41:49] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[13:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [The Dark Book]
+[13:47:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has completed the challenge [The Shadow What?]
+[13:49:03] [Server thread/INFO] [FML]: Unloading dimension 800
+[13:58:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray lost connection: Timed out
+[13:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray left the game
+[13:59:21] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[13:59:21] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[13:59:21] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 91 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[13:59:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:59:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SryForBeingGray[/10.0.0.3:63098] logged in with entity id 349078 at (8145.917020429877, 75.0, 5945.102276788033)
+[13:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray joined the game
+[13:59:26] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SryForBeingGray'/349078, l='world', x=8145.92, y=75.00, z=5945.10] connected. Sending ping
+[13:59:26] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player SryForBeingGray
+[13:59:26] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player SryForBeingGray
+[13:59:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray lost connection: Disconnected
+[13:59:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray left the game
+[14:00:08] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_outer_corner.objson in 1804824 nanos.
+[14:12:37] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[14:12:37] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[14:12:37] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 91 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,journeymap@1.12.2-5.7.1,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[14:12:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:12:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SryForBeingGray[/10.0.0.3:63226] logged in with entity id 361284 at (8145.917020429877, 75.0, 5945.102276788033)
+[14:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray joined the game
+[14:12:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SryForBeingGray'/361284, l='world', x=8145.92, y=75.00, z=5945.10] connected. Sending ping
+[14:12:51] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player SryForBeingGray
+[14:12:51] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player SryForBeingGray
+[14:21:08] [Server thread/INFO] [FML]: Loading dimension 808 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[14:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [A Dark Place]
+[14:21:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
+[14:23:04] [Server thread/INFO] [FML]: Unloading dimension 808
+[14:23:41] [Server thread/INFO] [FML]: Loading dimension 808 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[14:24:56] [Server thread/INFO] [FML]: Unloading dimension 808
+[14:26:00] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[14:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SryForBeingGray has made the advancement [A Blinding Light]
+[14:26:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3149ms behind, skipping 62 tick(s)
+[14:26:55] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [519, 364] in dimension 820 (shyrelands) while populating chunk [519, 363], causing cascading worldgen lag.
+[14:26:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:26:55] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [520, 363] in dimension 820 (shyrelands) while populating chunk [519, 363], causing cascading worldgen lag.
+[14:26:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:26:55] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [520, 364] in dimension 820 (shyrelands) while populating chunk [519, 363], causing cascading worldgen lag.
+[14:26:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:27:07] [Server thread/INFO] [FML]: Unloading dimension 820
+[14:27:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SryForBeingGray moved too quickly! -0.7293710358007957,17.49866402088785,-0.3115724270692226
+[14:28:58] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[14:31:24] [Server thread/INFO] [FML]: Unloading dimension 820
+[14:32:41] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@38dbdad4)
+[14:43:52] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/arch_d1.objson in 4028525 nanos.
+[14:54:02] [Server thread/INFO] [FML]: Unloading dimension 820
