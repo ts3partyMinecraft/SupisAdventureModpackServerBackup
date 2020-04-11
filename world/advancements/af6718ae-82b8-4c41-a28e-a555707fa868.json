@@ -1642,6 +1642,12 @@
     },
     "done": true
   },
+  "aoa3:overworld/the_flipped_key": {
+    "criteria": {
+      "inv_changed-aoa3:lelyetia_realmstone": "2020-04-11 11:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 18:45:43 +0000"
@@ -1885,6 +1891,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-08 16:14:41 +0000"
+    },
+    "done": true
+  },
+  "aoa3:barathos/lighter_than_a_duck": {
+    "criteria": {
+      "kill_baroness": "2020-04-11 11:17:25 +0000"
     },
     "done": true
   },

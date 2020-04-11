@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "aoa3:barathos/witch_hunt": {
+    "criteria": {
+      "gold_baroness_statue_obtain": "2020-04-11 12:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-04-07 10:44:51 +0000"
@@ -968,6 +974,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 19:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-04-11 12:27:23 +0000"
     },
     "done": true
   },
@@ -1815,6 +1827,12 @@
     },
     "done": true
   },
+  "aoa3:barathos/lighter_than_a_duck": {
+    "criteria": {
+      "kill_baroness": "2020-04-11 11:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2020-04-08 15:23:41 +0000"
@@ -1866,6 +1884,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-04-11 08:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-04-11 12:27:23 +0000"
     },
     "done": true
   },
@@ -2027,6 +2051,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-04-07 19:34:13 +0000"
+    },
+    "done": true
+  },
+  "aoa3:overworld/winner_winner": {
+    "criteria": {
+      "lotto_win": "2020-04-11 12:39:06 +0000"
     },
     "done": true
   },
