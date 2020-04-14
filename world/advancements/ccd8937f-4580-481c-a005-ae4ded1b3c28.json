@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "bhc:main/green_heart": {
+    "criteria": {
+      "green_heart_in_inventory": "2020-04-14 16:07:53 +0000"
+    },
+    "done": true
+  },
   "bhc:main/root": {
     "criteria": {
       "red_heart_in_inventory": "2020-04-10 12:25:13 +0000"
@@ -623,6 +629,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-07 11:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2020-04-14 16:07:02 +0000"
     },
     "done": true
   },
@@ -1281,6 +1293,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-07 18:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-04-14 16:09:32 +0000"
     },
     "done": true
   },
@@ -2430,6 +2448,12 @@
     },
     "done": true
   },
+  "aoa3:overworld/immovable_object": {
+    "criteria": {
+      "40_damage_tank": "2020-04-14 16:04:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 19:19:33 +0000"
@@ -2571,6 +2595,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_netherbrick": "2020-04-09 08:59:21 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/relic_apple": {
+    "criteria": {
+      "relic_apple_eaten": "2020-04-14 16:17:15 +0000"
     },
     "done": true
   },
