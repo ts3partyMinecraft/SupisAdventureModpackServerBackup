@@ -10,11 +10,13 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -91 63 -466 -61 100 -436 PirateShip.tml
+40 44 -79 51 60 -43 SunkenShip-v3.tml
 53 38 -476 89 54 -465 SunkenShip-v3.tml
 72 42 -1169 80 59 -1143 shipwreck.tml
 75 37 -513 86 61 -477 SunkenShip-v2.tml
 92 38 -485 103 62 -449 SunkenShip-v2.tml
 96 43 -1256 132 59 -1245 SunkenShip-v3.tml
+116 42 -54 142 59 -46 shipwreck.tml
 128 39 -479 136 56 -453 shipwreck.tml
 143 44 -920 179 68 -909 SunkenShip-v2.tml
 208 74 -1234 213 80 -1229 CaveSpiderBurrow.tml
@@ -689,6 +691,8 @@
 9953 64 13641 9957 66 13645 EmeraldOreOutcrop.tml
 9960 192 14187 9964 198 14190 StonePillar.tml
 9962 64 6884 9965 68 6887 StoneGrill.tml
+9964 43 6086 10000 59 6097 SunkenShip-v3.tml
+9965 40 5801 10001 56 5812 SunkenShip-v3.tml
 9970 62 13292 9982 67 13304 AncientFountain.tml
 9977 44 4306 9988 60 4342 SunkenShip-v3.tml
 9983 81 14299 9993 90 14311 StoneHouseMruined.tml
@@ -722,6 +726,7 @@
 10205 89 13805 10210 92 13812 Melonfield.tml
 10208 45 13314 10219 69 13350 SunkenShip-v2.tml
 10217 90 6798 10224 93 6803 Melonfield.tml
+10224 64 5789 10231 73 5796 Outcrop.tml
 10226 40 4021 10262 56 4032 SunkenShip-v3.tml
 10230 89 13922 10232 93 13925 SkeletonHeadStatue.tml
 10232 63 13070 10262 100 13100 PirateShip.tml
@@ -729,6 +734,7 @@
 10254 42 13241 10280 59 13249 shipwreck.tml
 10260 62 14319 10265 68 14324 CaveSpiderBurrow.tml
 10285 63 3904 10315 100 3934 PirateShip.tml
+10291 64 5501 10298 73 5508 Outcrop.tml
 10296 66 6728 10300 72 6731 StonePillar.tml
 10298 40 6515 10324 57 6523 shipwreck.tml
 10304 69 13803 10309 75 13808 CaveSpiderBurrow.tml

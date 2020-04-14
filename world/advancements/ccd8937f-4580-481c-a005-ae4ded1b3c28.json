@@ -475,6 +475,7 @@
       "wetland": "2020-04-11 08:49:21 +0000",
       "mountain_foothills": "2020-04-07 10:39:13 +0000",
       "cold_desert": "2020-04-08 06:04:28 +0000",
+      "coral_reef": "2020-04-14 15:21:15 +0000",
       "shield": "2020-04-08 12:07:15 +0000",
       "lush_desert": "2020-04-08 12:20:15 +0000",
       "mangrove": "2020-04-11 07:59:36 +0000",
@@ -482,6 +483,7 @@
       "visceral_heap": "2020-04-09 10:39:11 +0000",
       "snowy_forest": "2020-04-09 19:08:33 +0000",
       "temperate_rainforest": "2020-04-09 19:29:22 +0000",
+      "kelp_forest": "2020-04-14 15:54:45 +0000",
       "meadow": "2020-04-07 10:44:07 +0000",
       "lush_swamp": "2020-04-11 07:38:12 +0000",
       "fungi_forest": "2020-04-08 15:01:30 +0000",
@@ -743,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-04-14 15:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-07 18:45:28 +0000"
@@ -782,6 +790,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-04-08 15:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-04-14 15:59:01 +0000"
     },
     "done": true
   },
@@ -1140,6 +1154,7 @@
       "forest": "2020-04-11 07:35:39 +0000",
       "birch_forest": "2020-04-08 12:18:57 +0000",
       "swampland": "2020-04-11 07:43:25 +0000",
+      "deep_ocean": "2020-04-14 15:20:51 +0000",
       "beaches": "2020-04-08 12:20:12 +0000",
       "extreme_hills_with_trees": "2020-04-07 18:22:40 +0000",
       "desert_hills": "2020-04-11 07:17:28 +0000",
@@ -2126,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-04-14 15:59:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-04-07 19:34:13 +0000"
@@ -2355,6 +2376,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
+    "criteria": {
+      "has_item": "2020-04-14 15:59:16 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "craft_hammer": "2020-04-08 12:24:32 +0000"
@@ -2454,6 +2481,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 20:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-04-14 15:59:01 +0000"
     },
     "done": true
   },
