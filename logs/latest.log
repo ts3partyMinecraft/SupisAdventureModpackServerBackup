@@ -33,3 +33,4 @@
 [13:20:36] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy.objson in 9469346 nanos.
 [13:22:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
 [13:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
+[16:09:35] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
