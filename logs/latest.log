@@ -26,3 +26,10 @@
 [12:44:35] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang_gable_valley.objson in 1726394 nanos.
 [12:49:37] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang_gable_ridge.objson in 2074144 nanos.
 [12:49:43] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/doric_capital.objson in 4070008 nanos.
+[13:09:54] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang.objson in 1627006 nanos.
+[13:20:36] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy_newel_tall.objson in 2743326 nanos.
+[13:20:36] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_plain_bottom.objson in 1910238 nanos.
+[13:20:36] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy_corner.objson in 12582966 nanos.
+[13:20:36] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy.objson in 9469346 nanos.
+[13:22:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[13:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
