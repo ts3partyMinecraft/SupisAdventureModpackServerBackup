@@ -27,3 +27,6 @@
 [14:48:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aoa3:holly_arrow but it was marked as removed already
 [14:50:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [635, 384] in dimension 0 (overworld) while populating chunk [636, 384], causing cascading worldgen lag.
 [14:50:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 has completed the challenge [Reef Bleach]
+[15:27:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[15:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
