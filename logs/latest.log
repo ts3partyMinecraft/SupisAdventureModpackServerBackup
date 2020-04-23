@@ -857,3 +857,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [11:26:39] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/pillar_base.objson in 12834155 nanos.
 [11:26:41] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/cylinder_r6h16.objson in 1899225 nanos.
 [11:40:12] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached block/sawbench.objson in 6690662 nanos.
+[12:06:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[12:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
