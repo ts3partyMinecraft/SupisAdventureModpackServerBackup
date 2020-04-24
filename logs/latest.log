@@ -824,3 +824,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [13:37:43] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [13:37:43] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 78985
 [13:39:05] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Operation timed out (Connection timed out)
+[17:20:55] [Netty Epoll Server IO #1/INFO] [neid]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
