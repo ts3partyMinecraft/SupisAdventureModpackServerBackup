@@ -19,3 +19,5 @@
 [11:25:06] [Server thread/INFO] [antiqueatlas]: Sent dimension #815 (12 tiles)
 [11:25:06] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
 [11:25:06] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[12:46:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[12:46:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
