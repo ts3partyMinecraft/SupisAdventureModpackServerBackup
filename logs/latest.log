@@ -1,4 +1,1 @@
-[03:59:25] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /10.0.0.3
-[07:57:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8905ms behind, skipping 178 tick(s)
-[12:37:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2068ms behind, skipping 41 tick(s)
-[13:27:28] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /10.0.0.3
+[08:31:34] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
