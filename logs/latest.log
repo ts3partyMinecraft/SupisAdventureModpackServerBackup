@@ -1,1 +1,31 @@
 [08:31:34] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[10:17:19] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player supi129 is ccd8937f-4580-481c-a005-ae4ded1b3c28
+[10:17:19] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[10:17:19] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 90 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[10:17:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:17:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: supi129[/10.0.0.3:52408] logged in with entity id 354 at (8106.512499988079, 65.0, 5670.8810127935185)
+[10:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 joined the game
+[10:17:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['supi129'/354, l='world', x=8106.51, y=65.00, z=5670.88] connected. Sending ping
+[10:17:23] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player supi129
+[10:17:23] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player supi129
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (96 tiles)
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #800
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #800 (6 tiles)
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #1
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #1 (4 tiles)
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (56 tiles)
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #815
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #815 (12 tiles)
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
+[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[10:17:24] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_inner_corner.objson in 14738563 nanos.
+[10:17:24] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain.objson in 1271844 nanos.
+[10:17:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[10:19:58] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/pillar_base.objson in 15164905 nanos.
+[10:20:01] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/stairs.objson in 2416514 nanos.
+[10:20:58] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/cylinder_r6h16.objson in 2459154 nanos.
+[10:21:40] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached block/sawbench.objson in 4599992 nanos.
+[10:33:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[10:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
