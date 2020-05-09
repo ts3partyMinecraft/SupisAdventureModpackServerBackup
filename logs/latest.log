@@ -1,31 +1,861 @@
-[08:31:34] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
-[10:17:19] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player supi129 is ccd8937f-4580-481c-a005-ae4ded1b3c28
-[10:17:19] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[10:17:19] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 90 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
-[10:17:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[10:17:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: supi129[/10.0.0.3:52408] logged in with entity id 354 at (8106.512499988079, 65.0, 5670.8810127935185)
-[10:17:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 joined the game
-[10:17:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['supi129'/354, l='world', x=8106.51, y=65.00, z=5670.88] connected. Sending ping
-[10:17:23] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player supi129
-[10:17:23] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player supi129
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (96 tiles)
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #800
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #800 (6 tiles)
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #1
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #1 (4 tiles)
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (56 tiles)
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sending dimension #815
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent dimension #815 (12 tiles)
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
-[10:17:24] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
-[10:17:24] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_inner_corner.objson in 14738563 nanos.
-[10:17:24] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain.objson in 1271844 nanos.
-[10:17:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[10:19:58] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/pillar_base.objson in 15164905 nanos.
-[10:20:01] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/stairs.objson in 2416514 nanos.
-[10:20:58] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/cylinder_r6h16.objson in 2459154 nanos.
-[10:21:40] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached block/sawbench.objson in 4599992 nanos.
-[10:33:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
-[10:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
+[15:21:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:21:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:21:56] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[15:21:56] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_242, running on Linux:amd64:3.10.0-1062.18.1.el7.x86_64, installed at /usr/lib/jvm/java-1.8-openjdk/jre
+[15:21:56] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[15:21:56] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[15:21:56] [main/INFO] [FML]: Searching /opt/mcserver/server/./mods for mods
+[15:21:56] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:21:57] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[15:21:57] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[15:21:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:21:57] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:21:57] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[15:21:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:21:57] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:21:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
+[15:21:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:21:57] [main/WARN] [FML]: The coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:21:57] [main/WARN] [FML]: The coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[15:21:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in secretroomsmod-1.12.2-5.6.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:21:57] [main/WARN] [FML]: The coremod SecretRoomsMod-Core (com.wynprice.secretroomsmod.core.SecretRoomsCore) is not signed!
+[15:21:57] [main/INFO] [FML]: [SecretRoomsMod-Core] Core loaded
+[15:21:57] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:21:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:21:57] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[15:21:57] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[15:21:57] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/opt/mcserver/server/./mods/malisiscore-1.12.2-6.5.1.jar Service=LaunchWrapper Env=SERVER
+[15:21:57] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:21:57] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[15:21:57] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[15:21:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:21:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:21:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:21:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:21:59] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[15:21:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:21:59] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[15:21:59] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@512d4583
+[15:21:59] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[15:21:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:00] [main/INFO] [FML]: [SecretRoomsTransformer] Registered
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:22:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:22:00] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:22:00] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[15:22:00] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[15:22:01] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[15:22:01] [main/INFO] [neid]: Patching class: "net.minecraft.block.Block" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[15:22:01] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.ru.fewizz.neid.asm.Transformer' was detected and will no longer process meta class data
+[15:22:01] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[15:22:01] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[15:22:01] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:22:01] [main/INFO] [neid]: Patching class: "net.minecraftforge.registries.GameData" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[15:22:01] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[15:22:02] [main/INFO] [neid]: Patching class: "net.minecraft.block.Block" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[15:22:02] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[15:22:02] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[15:22:02] [main/INFO] [FML]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.state.BlockStateContainer$StateImplementation
+[15:22:02] [main/INFO] [FML]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.state.BlockStateContainer$StateImplementation
+[15:22:03] [main/INFO] [FML]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.BlockBreakable
+[15:22:03] [main/INFO] [FML]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.BlockBreakable
+[15:22:03] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[15:22:04] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[15:22:05] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[15:22:05] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[15:22:06] [main/INFO] [neid]: Patching class: "net.minecraft.stats.StatList" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[15:22:07] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[15:22:07] [main/INFO] [neid]: Patching class: "net.minecraft.world.chunk.storage.AnvilChunkLoader" with Transformer Group: "TransformerGroupAnvilChunkLoader"
+[15:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[15:22:07] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[15:22:07] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[15:22:07] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[15:22:07] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[15:22:08] [Server thread/INFO] [FML]: Searching /opt/mcserver/server/./mods for mods
+[15:22:08] [Server thread/WARN] [FML]: Mod absentbydesign is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.4
+[15:22:08] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[15:22:09] [Server thread/INFO] [FML]: Disabling mod betteradvancements it is client side only.
+[15:22:09] [Server thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
+[15:22:10] [Server thread/INFO] [FML]: Disabling mod colorhealthbar it is client side only.
+[15:22:10] [Server thread/WARN] [FML]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.5.0
+[15:22:10] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[15:22:11] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod jehc it is client side only.
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod moreoverlays it is client side only.
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod overpoweredarmorbar it is client side only.
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[15:22:11] [Server thread/WARN] [FML]: Mod unknownlibs is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.3
+[15:22:11] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
+[15:22:11] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[15:22:12] [Server thread/INFO] [FML]: Disabling mod reauth it is client side only.
+[15:22:12] [Server thread/INFO] [FML]: Forge Mod Loader has identified 78 mods to load
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for hidenames: assets/hidenames/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for neid: assets/neid/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for squidmilking: assets/squidmilking/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for pamscookables: assets/pamscookables/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for additionalstructures: assets/additionalstructures/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[15:22:12] [Server thread/WARN] [FML]: Missing English translation for unknownlibs: assets/unknownlibs/lang/en_us.lang
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file BetterAdvancements-1.12.2-0.1.0.77.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file Colored-Health-Bar-1.3.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file just-enough-harvestcraft-1.12.2-1.7.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file moreoverlays-1.15.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-17.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file overloadedarmorbar-1.0.4g.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability-mc1.12-1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:12] [Server thread/INFO] [FML]: FML has found a non-mod file reauth-3.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:22:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, srm-hooks, absentbydesign, antiqueatlas, aoa3, applecore, appleskin, architecturecraft, baubles, bhc, betterbuilderswands, bibliocraft, binniecore, botany, binniedesign, extrabees, extratrees, genetics, biomesoplenty, bookshelf, chameleon, chisel, chiselsandbits, compactdrawers, cookingforblockheads, corpse, deathcounter, props, dynamictrees, dynamictreesbop, dynamictreesphc, eplus, engineersdoors, engineersdecor, extrautils2, fenceoverhaul, forestry, hats, hidenames, waila, ichunutil, immcraft, inventorytweaks, ironbackpacks, ironchest, jei, landmanager, levelup2, malisiscore, malisisdoors, mantle, mcjtylib_ng, mcwbridges, morpheus, netherportalfix, neid, brewcraft, harvestcraft, squidmilking, pamscookables, additionalstructures, ropebridge, rsgauges, ruins, secretroomsmod, storagenetwork, storagedrawers, storagedrawersextra, unknownlibs, wawla, waystones, wrd, solcarrot, immersiveengineering, deathmaps] at CLIENT
+[15:22:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, srm-hooks, absentbydesign, antiqueatlas, aoa3, applecore, appleskin, architecturecraft, baubles, bhc, betterbuilderswands, bibliocraft, binniecore, botany, binniedesign, extrabees, extratrees, genetics, biomesoplenty, bookshelf, chameleon, chisel, chiselsandbits, compactdrawers, cookingforblockheads, corpse, deathcounter, props, dynamictrees, dynamictreesbop, dynamictreesphc, eplus, engineersdoors, engineersdecor, extrautils2, fenceoverhaul, forestry, hats, hidenames, waila, ichunutil, immcraft, inventorytweaks, ironbackpacks, ironchest, jei, landmanager, levelup2, malisiscore, malisisdoors, mantle, mcjtylib_ng, mcwbridges, morpheus, netherportalfix, neid, brewcraft, harvestcraft, squidmilking, pamscookables, additionalstructures, ropebridge, rsgauges, ruins, secretroomsmod, storagenetwork, storagedrawers, storagedrawersextra, unknownlibs, wawla, waystones, wrd, solcarrot, immersiveengineering, deathmaps] at SERVER
+[15:22:13] [Server thread/INFO] [neid]: Patching class: "net.minecraft.network.PacketBuffer" with Transformer Group: "TransformerGroupPacketBuffer"
+[15:22:25] [Server thread/ERROR] [FML]: The mod bhc is expecting signature undefined for source baubley-heart-canisters-1.12.2-1.2.3.jar, however there is no signature matching that description
+[15:22:29] [Server thread/ERROR] [FML]: The mod storagenetwork is expecting signature @FINGERPRINT@ for source SimpleStorageNetwork-1.12.2-1.7.10.jar, however there is no signature matching that description
+[15:22:29] [Server thread/INFO] [STDOUT]: [mrriegel.storagenetwork.StorageNetwork:onFingerprintViolation:69]: Storage Network: Invalid fingerprint detected! The file SimpleStorageNetwork-1.12.2-1.7.10.jar may have been tampered with. This version will NOT be supported by the author!
+[15:22:29] [Server thread/WARN] [solcarrot]: Invalid Fingerprint!
+[15:22:29] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[15:22:31] [Server thread/INFO] [FML]: Found 4991 ObjectHolder annotations
+[15:22:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[15:22:31] [Server thread/INFO] [FML]: Found 2 ItemStackHolder annotations
+[15:22:31] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[15:22:31] [Forge Version Check/INFO] [forge.VersionCheck]: [deathmaps] Starting version check at https://raw.githubusercontent.com/GlassPane/DeathMaps/master/versions.json
+[15:22:31] [Server thread/INFO] [aoa3]: Beginning fluid registration
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [deathmaps] Found status: BETA Target: null
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/master/update.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [storagenetwork] Found status: AHEAD Target: null
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [bhc] Starting version check at https://raw.githubusercontent.com/EmoKiba/Baubley-Heart-Canisters/master/versions.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [bhc] Found status: AHEAD Target: null
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [absentbydesign] Starting version check at https://raw.githubusercontent.com/Lothrazar/AbsentByDesign/master/update.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [absentbydesign] Found status: AHEAD Target: null
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [aoa3] Starting version check at http://tslat.net/Hosting/Tslat-AoA/forgeversions.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/master/changelog.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Found status: UP_TO_DATE Target: null
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [secretroomsmod] Starting version check at http://www.wynprice.com/update_jsons/secretroomsmod.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [rsgauges] Starting version check at https://raw.githubusercontent.com/stfwi/rsgauges/develop/meta/update.json
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [rsgauges] Found status: UP_TO_DATE Target: null
+[15:22:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[15:22:33] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[15:22:33] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[15:22:33] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Found status: UP_TO_DATE Target: null
+[15:22:33] [Forge Version Check/INFO] [forge.VersionCheck]: [engineersdecor] Starting version check at https://raw.githubusercontent.com/stfwi/engineers-decor/develop/meta/update.json
+[15:22:33] [Forge Version Check/INFO] [forge.VersionCheck]: [engineersdecor] Found status: OUTDATED Target: 1.0.20
+[15:22:35] [Server thread/INFO] [bhc]: Pre-Initialization finished.
+[15:22:36] [Server thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: Backpack Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: Natura Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: EnderIO Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: Mystical Agriculture Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: TechReborn Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: rustic Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: Roots Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: BuildCraft 6 Statements Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: BuildCraft 6 Transport Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: BuildCraft 6 Fuels Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: Better With Mods Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: BuildCraft 6 Recipes Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: Actually Additions Module
+[15:22:36] [Server thread/INFO] [forestry]: Module disabled: IndustrialCraft2 Module
+[15:22:43] [Server thread/INFO] [FML]: Applying holder lookups
+[15:22:43] [Server thread/INFO] [FML]: Holder lookups applied
+[15:22:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:44] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en, switching to Locale.US
+[15:22:44] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[15:22:44] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:22:56] [Server thread/INFO] [engineersdecor]: Engineer's Decor: Version 1.12.2-1.0.19 #cb9932c.
+[15:22:56] [Server thread/INFO] [engineersdecor]: Engineer's Decor: Found valid fingerprint ed58ed655893ced6280650866985abcae2bf7559.
+[15:22:59] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
+[15:22:59] [Server thread/INFO] [engineersdoors]: Pre-initializing trapdoors module
+[15:22:59] [Server thread/INFO] [engineersdoors]: Pre-initializing fence gates module
+[15:22:59] [Server thread/INFO] [engineersdoors]: Pre-initializing doors module
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:02] [Server thread/INFO] [malisiscore]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
+[15:23:02] [Server thread/INFO] [malisiscore]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
+[15:23:02] [Server thread/INFO] [malisiscore]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
+[15:23:02] [Server thread/INFO] [malisiscore]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
+[15:23:02] [Server thread/INFO] [malisiscore]: Registering DirectMessage for Packet with discriminator 5 in channel malisiscore
+[15:23:02] [Server thread/INFO] [malisiscore]: Registering BlockDataMessage for Packet with discriminator 6 in channel malisiscore
+[15:23:03] [Server thread/INFO] [malisiscore]: Registering ChunkBlockMessage for Packet with discriminator 7 in channel malisiscore
+[15:23:03] [Server thread/INFO] [malisiscore]: Registering NeighborChangedMessage for Packet with discriminator 8 in channel malisiscore
+[15:23:03] [Server thread/INFO] [malisiscore]: Registering SyncerMessage for Packet with discriminator 9 in channel malisiscore
+[15:23:03] [Server thread/INFO] [malisiscore]: Registering DigicodeMessage for Packet with discriminator 1 in channel malisisdoors
+[15:23:03] [Server thread/INFO] [malisiscore]: Registering DoorFactoryMessage for Packet with discriminator 2 in channel malisisdoors
+[15:23:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `customdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `saloondoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `verticalhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `garagedoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `door3x3`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bigdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rustyhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doorfactorytileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `forcefieldtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fencegatetileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:04] [Server thread/INFO] [morpheus]: Loading configuration
+[15:23:04] [Server thread/INFO] [STDOUT]: [com.pam.squidmilking.Squidmilking:preInit:41]: squidmilking is loading!
+[15:23:04] [Server thread/INFO] [rsgauges]: Gauges and Switches: Version 1.12.2-1.2.2 #1afee92.
+[15:23:04] [Server thread/INFO] [rsgauges]: Gauges and Switches: Found fingerprint ed58ed655893ced6280650866985abcae2bf7559.
+[15:23:04] [Server thread/INFO] [STDOUT]: [mrunknown404.unknownlibs.Main:preInit:20]: Loaded UnknownLibs Version: 1.0.3
+[15:23:04] [Hats Download/Read Hats Thread/INFO] [Hats]: [7.1.0] Loaded 198 hats. 68 are contributor hats.
+[15:23:06] [Server thread/INFO] [aoa3]: Beginning block registration
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bookcase`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `shelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `markerpole`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clipboard`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bibliolight`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furniturepaneler`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potionshelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `toolrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `label`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `desk`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `table`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `seat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancysign`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancyworkbench`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `framedchest`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mapframe`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `case`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clock`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeborderless`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframefancy`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeflat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframemiddle`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframesimple`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armorstand`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typesettingtable`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `printingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookiejar`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dinnerplate`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `discrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `swordpedestal`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bell`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typewriter`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:09] [Server thread/INFO] [Chisel]: Loading blocks...
+[15:23:09] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[15:23:09] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[15:23:09] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[15:23:10] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[15:23:10] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[15:23:10] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[15:23:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/INFO] [engineersdecor]: Registered 79 blocks.
+[15:23:11] [Server thread/INFO] [engineersdecor]: Registered 15 tile entities.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:11] [Server thread/INFO] [rsgauges]: Registered 120 blocks.
+[15:23:11] [Server thread/INFO] [rsgauges]: Registered 9 tile entities.
+[15:23:11] [Server thread/INFO] [secretroomsmod]: Enabling support for: malisisdoors
+[15:23:11] [Server thread/INFO] [FML]: Applying holder lookups
+[15:23:11] [Server thread/INFO] [FML]: Holder lookups applied
+[15:23:28] [Server thread/INFO] [aoa3]: Beginning item registration
+[15:23:31] [Server thread/INFO] [bhc]: Registering Items to the OreDictionary...
+[15:23:32] [Server thread/INFO] [Chisel]: Loading items...
+[15:23:32] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[15:23:32] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[15:23:32] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[15:23:32] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[15:23:32] [Server thread/INFO] [engineersdecor]: Registered 0 items.
+[15:23:32] [Server thread/INFO] [FML]: Applying holder lookups
+[15:23:32] [Server thread/INFO] [FML]: Holder lookups applied
+[15:23:47] [Server thread/INFO] [FML]: Applying holder lookups
+[15:23:47] [Server thread/INFO] [FML]: Holder lookups applied
+[15:23:47] [Server thread/INFO] [FML]: Applying holder lookups
+[15:23:47] [Server thread/INFO] [FML]: Holder lookups applied
+[15:23:47] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:23:47] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[15:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[15:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[15:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[15:23:47] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[15:23:48] [Server thread/ERROR] [FML]: Parsing error loading recipe bhc:orange_heart_canister1
+com.google.gson.JsonSyntaxException: Unknown item 'bhc:bhc_orange_heart_canister'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapelessOreRecipe.factory(ShapelessOreRecipe.java:152) ~[ShapelessOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_242]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[15:23:48] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_242]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[15:23:48] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_242]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[15:23:52] [Server thread/INFO] [Chisel]: Loading recipes...
+[15:23:52] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[15:23:52] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[15:23:52] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[15:23:52] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[15:23:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:52] [Server thread/WARN] [FML]: Unable to find recipe for minecraft:rabbit_stew
+[15:23:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:23:52] [Server thread/WARN] [FML]: Unable to find recipe for minecraft:baked_potato
+[15:23:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:23:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:24:08] [Server thread/WARN] [FML]: No types have been added to Biome wrd:dungeonsssssssss, types have been assigned on a best-effort guess: [DRY, PLAINS]
+[15:24:08] [Server thread/INFO] [bhc]: Initialization finished.
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:ocean;OCEAN;0.5;false;false;false;[WATER, OCEAN]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:plains;MEDIUM;0.8;false;false;false;[PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:desert;WARM;2.0;false;false;false;[DRY, HOT, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN, HILLS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:forest;MEDIUM;0.7;false;false;false;[FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:taiga;MEDIUM;0.25;false;false;false;[CONIFEROUS, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:swampland;MEDIUM;0.8;true;false;false;[WET, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:river;MEDIUM;0.5;false;false;false;[WATER, RIVER]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:hell;WARM;2.0;false;false;false;[NETHER, DRY, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:sky;MEDIUM;0.5;false;false;false;[END, DRY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:frozen_ocean;OCEAN;0.0;false;false;true;[WATER, SNOWY, COLD, OCEAN]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:frozen_river;COLD;0.0;false;false;true;[WATER, RIVER, SNOWY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:ice_flats;COLD;0.0;false;false;true;[SNOWY, WASTELAND, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:ice_mountains;COLD;0.0;false;false;true;[MOUNTAIN, SNOWY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mushroom_island;MEDIUM;0.9;true;false;false;[MUSHROOM, RARE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mushroom_island_shore;MEDIUM;0.9;true;false;false;[BEACH, MUSHROOM, RARE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:beaches;MEDIUM;0.8;false;false;false;[BEACH]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:desert_hills;WARM;2.0;false;false;false;[HILLS, DRY, HOT, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:forest_hills;MEDIUM;0.7;false;false;false;[HILLS, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:taiga_hills;MEDIUM;0.25;false;false;false;[CONIFEROUS, HILLS, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:smaller_extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:jungle;MEDIUM;0.95;true;false;false;[WET, JUNGLE, DENSE, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:jungle_hills;MEDIUM;0.95;true;false;false;[WET, HILLS, JUNGLE, DENSE, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:jungle_edge;MEDIUM;0.95;false;false;false;[WET, RARE, JUNGLE, HOT, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:deep_ocean;OCEAN;0.5;false;false;false;[WATER, OCEAN]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:stone_beach;MEDIUM;0.2;false;false;false;[BEACH]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:cold_beach;COLD;0.05;false;false;true;[BEACH, SNOWY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:birch_forest;MEDIUM;0.6;false;false;false;[FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:birch_forest_hills;MEDIUM;0.6;false;false;false;[HILLS, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:roofed_forest;MEDIUM;0.7;false;false;false;[SPOOKY, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:taiga_cold;COLD;-0.5;false;false;true;[CONIFEROUS, SNOWY, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:taiga_cold_hills;COLD;-0.5;false;false;true;[CONIFEROUS, SNOWY, HILLS, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:redwood_taiga;MEDIUM;0.3;false;false;false;[CONIFEROUS, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:redwood_taiga_hills;MEDIUM;0.3;false;false;false;[CONIFEROUS, HILLS, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:extreme_hills_with_trees;MEDIUM;0.2;false;false;false;[MOUNTAIN, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:savanna;WARM;1.2;false;false;false;[SAVANNA, HOT, PLAINS, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:savanna_rock;WARM;1.0;false;false;false;[SAVANNA, RARE, HOT, PLAINS, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mesa;WARM;2.0;false;false;false;[DRY, MESA, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mesa_rock;WARM;2.0;false;false;false;[DRY, SPARSE, MESA, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mesa_clear_rock;WARM;2.0;false;false;false;[DRY, MESA, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:void;MEDIUM;0.5;false;false;false;[VOID]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_plains;MEDIUM;0.8;false;true;false;[RARE, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_desert;WARM;2.0;false;true;false;[RARE, DRY, HOT, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills;MEDIUM;0.2;false;true;false;[MOUNTAIN, RARE, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_forest;MEDIUM;0.7;false;true;false;[HILLS, RARE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_taiga;MEDIUM;0.25;false;true;false;[CONIFEROUS, MOUNTAIN, RARE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_swampland;MEDIUM;0.8;true;true;false;[WET, HILLS, RARE, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_ice_flats;COLD;0.0;false;true;true;[SNOWY, HILLS, RARE, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_jungle;MEDIUM;0.95;true;true;false;[MOUNTAIN, WET, RARE, JUNGLE, DENSE, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_jungle_edge;MEDIUM;0.95;false;true;false;[HILLS, RARE, JUNGLE, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest;MEDIUM;0.6;false;true;false;[HILLS, RARE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest_hills;MEDIUM;0.6;false;true;false;[MOUNTAIN, RARE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_roofed_forest;MEDIUM;0.7;false;true;false;[MOUNTAIN, RARE, SPOOKY, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_taiga_cold;COLD;-0.5;false;true;true;[CONIFEROUS, MOUNTAIN, SNOWY, RARE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga;MEDIUM;0.25;false;true;false;[RARE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga_hills;MEDIUM;0.25;false;true;false;[HILLS, RARE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills_with_trees;MEDIUM;0.2;false;true;false;[MOUNTAIN, RARE, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_savanna;WARM;1.1;false;true;false;[MOUNTAIN, SAVANNA, RARE, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_savanna_rock;WARM;1.0;false;true;false;[HILLS, SAVANNA, RARE, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa;WARM;2.0;false;true;false;[MOUNTAIN, RARE, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa_rock;WARM;2.0;false;true;false;[HILLS, RARE, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa_clear_rock;WARM;2.0;false;true;false;[MOUNTAIN, RARE, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:gravel_beach;MEDIUM;0.6;false;false;false;[BEACH]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:white_beach;WARM;1.0;true;false;false;[BEACH]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:origin_beach;MEDIUM;0.6;false;false;false;[BEACH, RARE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:alps;COLD;-0.25;false;false;true;[MOUNTAIN, SNOWY, DRY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:bamboo_forest;MEDIUM;0.9;false;false;false;[WET, JUNGLE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:bayou;MEDIUM;0.95;true;false;false;[WET, DENSE, HOT, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:bog;MEDIUM;0.5;true;false;false;[WET, COLD, FOREST, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:boreal_forest;MEDIUM;0.3;false;false;false;[CONIFEROUS, HILLS, DENSE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:brushland;WARM;1.5;false;false;false;[SAVANNA, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:chaparral;MEDIUM;0.8;false;false;false;[DRY, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:cherry_blossom_grove;MEDIUM;0.55;false;false;false;[LUSH, WET, MAGICAL, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:cold_desert;MEDIUM;0.2;false;false;false;[SNOWY, DRY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:coniferous_forest;MEDIUM;0.45;false;false;false;[CONIFEROUS, DENSE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:crag;MEDIUM;0.5;false;false;false;[MOUNTAIN, HILLS, MAGICAL, WASTELAND, DRY, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:dead_forest;MEDIUM;0.3;false;false;false;[DEAD, DRY, COLD, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:dead_swamp;MEDIUM;0.6;true;false;false;[WET, SPOOKY, DEAD, COLD, SPARSE, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:eucalyptus_forest;MEDIUM;0.95;true;false;false;[LUSH, WET, JUNGLE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:fen;MEDIUM;0.4;false;false;false;[WET, DENSE, DEAD, COLD, FOREST, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:flower_field;MEDIUM;0.7;false;false;false;[LUSH, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:grassland;MEDIUM;0.6;false;false;false;[WET, HILLS, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:grove;MEDIUM;0.6;false;false;false;[LUSH, WET, PLAINS, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:highland;MEDIUM;0.6;false;false;false;[MOUNTAIN, WET, HILLS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:land_of_lakes;MEDIUM;0.5;true;false;false;[WET, DENSE, FOREST, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:lavender_fields;MEDIUM;0.7;false;false;false;[LUSH, MAGICAL, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:lush_desert;WARM;1.2;false;false;false;[LUSH, SAVANNA, DRY, HOT, SPARSE, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:lush_swamp;MEDIUM;0.7;true;false;false;[LUSH, WET, DENSE, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:mangrove;MEDIUM;0.85;false;false;false;[WATER, LUSH, WET, DENSE, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:maple_woods;MEDIUM;0.25;false;false;false;[CONIFEROUS, DENSE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:marsh;MEDIUM;0.6;false;false;false;[LUSH, WET]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:meadow;MEDIUM;0.4;false;false;false;[LUSH, WET, PLAINS, COLD, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:moor;MEDIUM;0.6;true;false;false;[WET, HILLS, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:mountain;MEDIUM;0.5;false;false;false;[MOUNTAIN, DRY, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:mystic_grove;MEDIUM;0.7;false;false;false;[LUSH, WET, RARE, MAGICAL, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:ominous_woods;MEDIUM;0.6;false;false;false;[WET, RARE, MAGICAL, SPOOKY, DENSE, DEAD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:orchard;MEDIUM;0.7;false;false;false;[LUSH, DENSE, PLAINS, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:outback;WARM;2.0;false;false;false;[SAVANNA, DRY, HOT, SPARSE, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:overgrown_cliffs;MEDIUM;0.95;false;false;false;[MOUNTAIN, LUSH, WET, HILLS, JUNGLE, DENSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:prairie;MEDIUM;0.8;false;false;false;[DRY, PLAINS, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:quagmire;MEDIUM;0.6;true;false;false;[WET, DEAD, WASTELAND, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:rainforest;MEDIUM;0.95;true;false;false;[LUSH, WET, HILLS, JUNGLE, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest;MEDIUM;0.7;false;false;false;[DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:sacred_springs;MEDIUM;0.85;true;false;false;[LUSH, WET, RARE, JUNGLE, MAGICAL, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:seasonal_forest;MEDIUM;0.4;false;false;false;[DENSE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:shield;MEDIUM;0.4;false;false;false;[WET, DENSE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:shrubland;MEDIUM;0.6;false;false;false;[DRY, PLAINS, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_coniferous_forest;COLD;-0.25;false;false;true;[CONIFEROUS, SNOWY, DENSE, COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_forest;COLD;-0.25;false;false;true;[SNOWY, WET, COLD, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:steppe;MEDIUM;0.75;false;false;false;[DRY, PLAINS, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:temperate_rainforest;MEDIUM;0.75;true;false;false;[LUSH, WET, DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:tropical_rainforest;WARM;1.0;true;false;false;[LUSH, WET, JUNGLE, DENSE, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:tundra;MEDIUM;0.2;false;false;false;[WET, WASTELAND, DEAD, COLD, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:wasteland;WARM;2.0;false;false;false;[WASTELAND, DEAD, DRY, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:wetland;MEDIUM;0.6;false;false;false;[LUSH, WET, DENSE, FOREST, SWAMP]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:woodland;MEDIUM;0.7;false;false;false;[DENSE, DRY, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:xeric_shrubland;WARM;1.75;false;false;false;[LUSH, SAVANNA, DRY, HOT, SPARSE, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:alps_foothills;COLD;-0.25;false;false;true;[MOUNTAIN, SNOWY, DRY, COLD, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:mountain_foothills;MEDIUM;0.5;false;false;false;[MOUNTAIN, HILLS, DRY, FOREST, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest_edge;MEDIUM;0.7;false;false;false;[DENSE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:pasture;MEDIUM;0.8;false;false;false;[DRY, PLAINS, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:glacier;COLD;-0.5;false;false;false;[SNOWY, WASTELAND, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:oasis;WARM;2.0;false;false;false;[LUSH, WET, JUNGLE, HOT, SPARSE, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_tundra;COLD;0.0;false;false;false;[SNOWY, WET, WASTELAND, DEAD, COLD, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:coral_reef;MEDIUM;0.5;false;false;false;[WATER, OCEAN]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:kelp_forest;MEDIUM;0.5;false;false;false;[WATER, OCEAN]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:origin_island;MEDIUM;0.6;false;false;false;[WATER, RARE, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:tropical_island;MEDIUM;0.95;true;false;false;[WATER, LUSH, WET, JUNGLE, DENSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:volcanic_island;WARM;1.2;false;false;false;[MOUNTAIN, WATER, DEAD, WASTELAND, DRY, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:flower_island;MEDIUM;0.8;false;false;false;[WATER, LUSH, DENSE, MAGICAL, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:corrupted_sands;WARM;2.0;false;false;false;[NETHER, DENSE, DRY, HOT, SANDY]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:fungi_forest;WARM;2.0;false;false;false;[NETHER, MUSHROOM, DENSE, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:phantasmagoric_inferno;WARM;2.0;false;false;false;[NETHER, MAGICAL, SPOOKY, WASTELAND, DRY, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:undergarden;WARM;2.0;false;false;false;[NETHER, LUSH, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: biomesoplenty:visceral_heap;WARM;2.0;false;false;false;[NETHER, WET, HOT]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:abyss;COLD;0.0;true;false;false;[SPOOKY, DEAD, WASTELAND, COLD]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:ancient_cavern;COLD;0.0;false;false;false;[VOID]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:barathos;WARM;2.0;true;false;false;[DEAD, WASTELAND, DRY, HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:candyland;MEDIUM;0.4;true;false;false;[MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:celeve;MEDIUM;0.5;false;false;false;[MOUNTAIN, MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:creeponia;MEDIUM;0.4;true;false;false;[COLD, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:crystevia;MEDIUM;0.4;true;false;false;[WET, MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:deeplands;COLD;0.0;true;false;false;[SPOOKY, WASTELAND, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:dustopia;MEDIUM;0.25;true;false;false;[SPOOKY, WASTELAND, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:gardencia;MEDIUM;0.5;false;false;false;[WET, HILLS, MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:greckon;MEDIUM;0.5;true;false;false;[MOUNTAIN, SPOOKY, MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:haven;MEDIUM;0.5;false;false;false;[MOUNTAIN, VOID]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:immortallis;COLD;0.0;false;false;false;[VOID]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:iromine;MEDIUM;0.4;true;false;false;[HOT, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:lborean;MEDIUM;0.5;true;false;false;[WATER, WET, WASTELAND]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:lelyetia;WARM;2.0;true;false;false;[VOID, MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:lunalus;COLD;0.0;false;false;false;[VOID, MAGICAL, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:mysterium;MEDIUM;0.4;true;false;false;[MUSHROOM, MAGICAL, SPOOKY, FOREST]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:precasia;WARM;2.0;true;false;false;[PLAINS, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:runandor;MEDIUM;0.5;false;false;false;[MOUNTAIN, MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:shyrelands;WARM;2.0;true;false;false;[MAGICAL]
+[15:24:09] [Server thread/INFO] [harvestcraft]: aoa3:vox_ponds;COLD;0.0;false;false;false;[WET, WASTELAND, DEAD, SPARSE]
+[15:24:09] [Server thread/INFO] [harvestcraft]: wrd:dungeonsssssssss;MEDIUM;0.5;false;false;false;[DRY, PLAINS]
+[15:24:09] [Server thread/INFO] [harvestcraft]: Registering drops for shadedGarden.
+[15:24:09] [Server thread/INFO] [harvestcraft]: Registering drops for tropicalGarden.
+[15:24:09] [Server thread/INFO] [harvestcraft]: Registering drops for windyGarden.
+[15:24:09] [Server thread/INFO] [harvestcraft]: Registering drops for frostGarden.
+[15:24:09] [Server thread/INFO] [harvestcraft]: Registering drops for aridGarden.
+[15:24:09] [Server thread/INFO] [harvestcraft]: Registering drops for soggyGarden.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamapiary`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pammarket`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamshippingbin`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pampresser`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgroundtrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwatertrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwaterfilter`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgrinder`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:09] [Thread-7/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@26f311a5 (aoa3:infusion/infusing/armour/skeletal/skeletal_legs)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@43f972c4 (aoa3:infusion/infusing/armour/skeletal/skeletal_helmet)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@17f3b5b9 (aoa3:infusion/infusing/armour/skeletal/skeletal_chestplate)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@3ce6b1d4 (aoa3:infusion/infusing/armour/skeletal/skeletal_boots)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@510809a4 (aoa3:infusion/infusing/armour/fungal/fungal_legs)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@32fae528 (aoa3:infusion/infusing/armour/fungal/fungal_helmet)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@310c490d (aoa3:infusion/infusing/armour/fungal/fungal_chestplate)
+[15:24:10] [Immersive Engineering Registry Iteration Thread/WARN] [immersiveengineering]: Recipe has invalid inputs and will be ignored: net.tslat.aoa3.crafting.recipes.InfusionTableRecipe@3166f1d (aoa3:infusion/infusing/armour/fungal/fungal_boots)
+[15:24:10] [Thread-7/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 114 milliseconds
+[15:24:10] [Server thread/INFO] [engineersdoors]: Initializing trapdoors module
+[15:24:10] [Server thread/INFO] [engineersdoors]: Initializing fence gates module
+[15:24:10] [Server thread/INFO] [engineersdoors]: Initializing doors module
+[15:24:10] [Server thread/INFO] [engineersdoors]: Overwriting door generation in IE village engineer's house (IEVEH)
+[15:24:10] [Server thread/INFO] [engineersdoors]: Demapped base IEVEH in VillagerRegistry
+[15:24:10] [Server thread/INFO] [engineersdoors]: Registered modified IEVEH in VillagerRegistry
+[15:24:10] [Server thread/INFO] [engineersdoors]: Demapped base IEVEH from NtC map in MapGenStructureIO
+[15:24:10] [Server thread/INFO] [engineersdoors]: Demapped base IEVEH from CtN map in MapGenStructureIO
+[15:24:10] [Server thread/INFO] [engineersdoors]: Registered modified IEVEH in MapGenStructureIO
+[15:24:10] [Server thread/INFO] [STDOUT]: [com.tlf.HN.event.EventHandler:<init>:23]: HN Event Handler started on side SERVER
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `distiller`, expected `brewcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/INFO] [pamscookables]: Registering new furnace recipes
+[15:24:11] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.vanillabeanitem@0 = 1xitem.vanillaitem@0
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodsecretmalisistileentitydoor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodsecretmalisistileentitytrapdoor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentityinfomationholder`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretchest`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretdispenser`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretdaylightsensor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretpressureplate`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[15:24:11] [Server thread/INFO] [Chisel]: Received 9 IMC messages from mod immersiveengineering.
+[15:24:11] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:24:11] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:24:11] [Server thread/INFO] [bhc]: Post-Initialization finished.
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[15:24:11] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config lab furnace interval:153, efficiency:1.0
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config chairs: true, sit: 0.1
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config pipe valve: maxflow:1000mb, redstone amp:20mb/sig
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config electrical furnace speed:200, power consumption:640
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config small solar panel: Peak production:32/tick
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config block breaker: Boost energy consumption:64rf/t, reluctance=17t/hrdn, break time offset=15t
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config tree cutter: Boost energy consumption:320rf/t, cutting time 1200t.
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config milker energy consumption:0rf/t [milk fluid available]
+[15:24:11] [Server thread/INFO] [engineersdecor]: Config placer: 1 special placement handling entries.
+[15:24:11] [Server thread/INFO] [engineersdecor]: Excluded 36 recipes due to config opt-out.
+[15:24:12] [Server thread/INFO] [engineersdecor]: Found 74 types of 'choppable' log.
+[15:24:12] [Server thread/INFO] [engineersdecor]: Found 112 types of leaves.
+[15:24:12] [Server thread/INFO] [engineersdecor]: Dynamic Trees chopping compat: 144 choppable states found.
+[15:24:12] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.SubterraneanHelmet@32767, missing knowledge for {1xitem.pickaxeGold@0=1.0}
+[15:24:12] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.SubterraneanChestplate@32767, missing knowledge for {1xitem.pickaxeGold@0=1.0}
+[15:24:12] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.SubterraneanBoots@32767, missing knowledge for {1xitem.pickaxeGold@0=1.0}
+[15:24:12] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xtile.immersiveengineering.metal_device1@10, missing knowledge for {1xtile.immersiveengineering.metal_device0@4=1.0}
+[15:24:12] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.SubterraneanLegs@32767, missing knowledge for {1xitem.pickaxeGold@0=1.0}
+[15:24:12] [Server thread/INFO] [engineersdoors]: Post-initializing trapdoors module
+[15:24:12] [Server thread/INFO] [engineersdoors]: Post-initializing fence gates module
+[15:24:12] [Server thread/INFO] [engineersdoors]: Post-initializing doors module
+[15:24:12] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
+[15:24:12] [Server thread/INFO] [iChunUtil]: =============================================================
+[15:24:12] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[15:24:12] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[15:24:12] [Server thread/INFO] [iChunUtil]: =============================================================
+[15:24:12] [Server thread/INFO] [Waila]: Starting Waila...
+[15:24:12] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[15:24:12] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugins...
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at blusunrize.immersiveengineering.common.util.compat.waila.IEWailaDataProvider
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at com.ferreusveritas.dynamictrees.compat.WailaCompat
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[15:24:12] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from storagedrawers at com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at com.wynprice.secretroomsmod.integration.walia.SecretWalia
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.cookingforblockheads.compat.WailaProvider
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at net.darkhax.wawla.engine.waila.EntityProvider
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at net.darkhax.wawla.engine.waila.TileProvider
+[15:24:12] [Server thread/INFO] [Waila]: Registering plugin at team.chisel.common.integration.waila.ChiselDataHandler
+[15:24:12] [Server thread/INFO] [Waila]: Starting Waila took 135.0 ms
+[15:24:13] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 78 mods
+[15:24:13] [Server thread/INFO] [mcjtylib_ng]: Preparing all world data
+[15:24:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[15:24:13] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[15:24:16] [Server thread/INFO] [FML]: Applying holder lookups
+[15:24:16] [Server thread/INFO] [FML]: Holder lookups applied
+[15:24:17] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[15:24:17] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[15:24:17] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[15:24:17] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[15:24:17] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:17] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/stone_brick_stairs
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_stairs'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[15:24:17] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/stone_brick_slab
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[15:24:18] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1016 advancements
+[15:24:18] [Server thread/INFO] [neid]: Patching class: "ru.fewizz.neid.asm.Hooks" with Transformer Group: "TransformerGroupChunkPrimer"
+[15:24:20] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:20] [Server thread/INFO] [FML]: Loading dimension 800 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:20] [Server thread/INFO] [FML]: Loading dimension 801 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:20] [Server thread/INFO] [FML]: Loading dimension 802 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:20] [Server thread/INFO] [FML]: Loading dimension 803 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 804 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 805 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 806 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 807 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 808 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 809 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:21] [Server thread/INFO] [FML]: Loading dimension 810 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 811 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 812 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 813 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 814 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 815 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 816 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 817 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 818 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 819 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 820 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 821 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:22] [Server thread/INFO] [FML]: Loading dimension 3 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[15:24:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[15:24:23] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[15:24:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[15:24:23] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@7d4b7092)
+[15:24:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[15:24:23] [Server thread/INFO] [neid]: Patching class: "net.minecraft.world.chunk.ChunkPrimer" with Transformer Group: "TransformerGroupChunkPrimer"
+[15:24:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
+[15:24:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[15:24:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:chicken that already exists with UUID 365727ac-85ea-4792-a897-2729dc86ce98
+[15:24:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
+[15:24:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[15:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (13.092s)! For help, type "help" or "?"
+[15:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting remote control listener
+[15:24:26] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: RCON running on 0.0.0.0:25575
+[15:24:27] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[15:24:27] [Server thread/INFO] [immersiveengineering]: WorldData retrieved
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 1
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 800
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 801
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 802
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 803
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 804
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 805
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 806
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 807
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 808
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 809
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 810
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 811
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 812
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 813
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 814
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 815
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 816
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 817
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 818
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 819
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 820
+[15:24:28] [Server thread/INFO] [FML]: Unloading dimension 821
+[15:24:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:24:29] [Server thread/INFO] [FML]: Unloading dimension -11325
+[15:24:31] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain.objson in 11751111 nanos.
+[15:25:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[15:25:12] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 78985
+[15:25:26] [Netty Epoll Server IO #1/INFO] [neid]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[15:25:31] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player supi129 is ccd8937f-4580-481c-a005-ae4ded1b3c28
+[15:25:32] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[15:25:32] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 90 mods : compactdrawers@1.12.2-1.0.5.125,levelup2@${version},dynamictreesbop@1.12.2-1.4.1e,netherportalfix@5.3.17,hats@7.1.0,binniecore@2.5.1.203,aoa3@3.2.6,deathcounter@1.1.0,jei@4.15.0.291,pamscookables@1.1,bibliocraft@2.4.5,colorhealthbar@1.3.0,landmanager@1.5.0,ropebridge@2.0.5,rsgauges@1.2.2,wawla@2.6.275,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,cookingforblockheads@6.5.0,reauth@3.6.0,storagenetwork@1.7.10,neid@1.5.4.4,chameleon@1.12-4.1.3,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,deathmaps@1.0.0,harvestcraft@1.12.2zb,secretroomsmod@5.6.4,betterbuilderswands@0.11.1,extrabees@2.5.1.203,morpheus@1.12.2-3.5.106,additionalstructures@2.3.1,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,forge@14.23.5.2847,ruins@17.2,absentbydesign@1.12.2-1.0.4,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,storagedrawersextra@@VERSION@,eplus@5.0.176,antiqueatlas@4.6.3,corpse@1.12.2-1.0.6,ironchest@1.12.2-7.0.67.844,extratrees@2.5.1.203,dynamictreesphc@1.12.2-1.4.2,minecraft@1.12.2,mcwbridges@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,squidmilking@1.12.2a,immersiveengineering@0.12-92,jehc@1.7.0,botany@2.5.1.203,biomesoplenty@7.0.1.2441,baubles@1.5.2,applecore@3.2.0,unknownlibs@1.0.3,srm-hooks@1.12.2-1.0.0,genetics@2.5.1.203,engineersdoors@0.8.0,extrautils2@1.0,brewcraft@1.12.2-1.0.1,mantle@1.12-1.3.3.55,bhc@1.2.3,fenceoverhaul@1.3.4,storagedrawers@1.12.2-5.4.1,FML@8.0.99.99,wrd@0.8.0,hidenames@1.4.1,appleskin@1.0.9,chisel@MC1.12.2-1.0.2.45,engineersdecor@1.0.19,antiqueatlasoverlay@1.2,moreoverlays@1.15.1,solcarrot@1.8.3,overpoweredarmorbar@@VERSION@,chiselsandbits@14.33,dynamictrees@1.12.2-0.9.7,immcraft@1.6.0,wailaharvestability@1.1.12,forestry@5.8.2.387,binniedesign@2.5.1.203,betteradvancements@0.1.0.77
+[15:25:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:25:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: supi129[/10.0.0.3:63952] logged in with entity id 345 at (8106.512499988079, 65.0, 5670.969379068709)
+[15:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 joined the game
+[15:25:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['supi129'/345, l='world', x=8106.51, y=65.00, z=5670.97] connected. Sending ping
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player supi129
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player supi129
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (96 tiles)
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sending dimension #800
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent dimension #800 (6 tiles)
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sending dimension #1
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent dimension #1 (4 tiles)
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sending dimension #802
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent dimension #802 (56 tiles)
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sending dimension #815
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent dimension #815 (12 tiles)
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player supi129
+[15:25:36] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player supi129
+[15:25:36] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_inner_corner.objson in 1945670 nanos.
+[15:25:57] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[15:26:34] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Operation timed out (Connection timed out)
+[15:26:48] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/pillar_base.objson in 12283084 nanos.
+[15:29:12] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/cylinder_r6h16.objson in 1817611 nanos.
+[15:32:57] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/stairs.objson in 1448625 nanos.
+[15:34:27] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached block/sawbench.objson in 4435387 nanos.
+[15:36:46] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_plain_outer_corner.objson in 1888034 nanos.
+[15:42:37] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/doric_capital.objson in 5891652 nanos.
+[15:42:43] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_fancy.objson in 8276647 nanos.
+[15:42:43] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/arch_d4c.objson in 856069 nanos.
+[15:43:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[15:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
