@@ -184,3 +184,10 @@
 [11:54:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aoa3:holly_arrow but it was marked as removed already
 [11:55:08] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [419, 234] in dimension 0 (overworld) while populating chunk [420, 235], causing cascading worldgen lag.
 [11:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[12:03:01] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_plain_bottom.objson in 2219476 nanos.
+[12:03:01] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/balustrade_stair_fancy_top.objson in 7590495 nanos.
+[12:10:52] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang_gable_rh.objson in 2162704 nanos.
+[12:10:54] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/roof_overhang_gable_lh.objson in 1092337 nanos.
+[12:11:07] [Server thread/INFO] [ArchitectureCraft]: Loaded and cached shape/arch_d1.objson in 1196568 nanos.
+[12:21:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: supi129 lost connection: Disconnected
+[12:21:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: supi129 left the game
