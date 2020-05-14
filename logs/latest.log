@@ -824,3 +824,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [14:31:02] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 82676
 [14:32:24] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Operation timed out (Connection timed out)
 [15:30:17] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[16:30:19] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[16:39:33] [Netty Epoll Server IO #1/INFO] [neid]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
