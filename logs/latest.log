@@ -826,3 +826,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [07:58:13] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [07:58:13] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 82676
 [07:59:35] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Operation timed out (Connection timed out)
+[08:27:27] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[08:57:28] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
