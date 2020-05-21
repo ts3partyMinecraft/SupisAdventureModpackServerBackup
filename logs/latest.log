@@ -836,3 +836,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [11:57:29] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [12:27:30] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [12:57:30] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[13:14:34] [Netty Epoll Server IO #1/INFO] [neid]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[13:27:30] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[13:57:31] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
