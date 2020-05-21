@@ -830,3 +830,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [08:57:28] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [09:27:28] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [09:57:28] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[10:27:28] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[10:57:29] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
