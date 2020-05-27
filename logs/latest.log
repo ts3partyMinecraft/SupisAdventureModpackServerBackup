@@ -24,3 +24,5 @@
 [11:30:10] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [12:00:11] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [12:30:11] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[13:00:11] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[13:30:12] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
