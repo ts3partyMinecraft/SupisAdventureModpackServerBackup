@@ -828,3 +828,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_brick_slab'
 [09:48:31] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Operation timed out (Connection timed out)
 [10:16:24] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [10:46:24] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[11:16:24] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[11:46:25] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
