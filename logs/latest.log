@@ -33,3 +33,5 @@
 [16:16:42] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
 [16:41:23] [Netty Epoll Server IO #1/INFO] [neid]: Patching class: "net.minecraft.network.play.server.SPacketBlockAction" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
 [16:46:42] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[17:16:43] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
+[17:46:43] [pool-3-thread-1/WARN] [aoa3]: Error while performing HTTP Tasks, dropping.
